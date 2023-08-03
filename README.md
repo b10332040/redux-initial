@@ -1,5 +1,5 @@
 # Redux-initial
----
+
 為了練習 redux 建立的專案。
 參考文章：[30天深入淺出Redux 系列](https://ithelp.ithome.com.tw/users/20129020/ironman/5360)
 
